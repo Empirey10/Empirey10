@@ -1,18 +1,59 @@
-# 💫 About Me:
-👋 Hello! My name is **Muhammad Wahyu Muges**.<br>📍 Based in Eastern Indonesia.<br>📚 Currently focused on learning and honing skills in **Software Development**.<br>🚀 Exploring new technologies and actively building projects.
+<div align="center">
 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" /> Hello, I'm Muhammad Wahyu Muges (Yuken)!
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whhyuumuges_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WahyuMuges) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ndaktau) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@0hioo0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:genzyy04@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Development+Enthusiast;Based+in+Eastern+Indonesia;Exploring+New+Technologies;Building+Cool+Projects" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Empirey10&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Empirey10&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Empirey10&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=Empirey10&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🌐 Connect With Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/whhyuumuges_10) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/WahyuMuges) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@ndaktau) 
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@0hioo0) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:genzyy04@gmail.com)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,php,laravel,spring,git,github&theme=dark" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Epic_Games-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white">
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Empirey10&theme=neon&hide_border=true&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Empirey10&theme=neon&hide_border=true" /></td>
+  </tr>
+</table>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Empirey10&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%">
+
+<br>
+
+<!-- Visitor Count -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Empirey10&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
+
+<br><br>
+
+<!-- Animasi penutup kecil -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120">
+
+</div>
